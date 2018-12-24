@@ -1,0 +1,7 @@
+User-agent: *
+# If you rather not have your site searchable 
+# dev.zalando.net Add a slash to the below like
+# Disallow: /
+#
+# See https://zdocs.docs.zalando.net/ for further information
+Disallow: 
